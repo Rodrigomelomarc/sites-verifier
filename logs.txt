@@ -1,0 +1,9 @@
+09/11/2019 17:32:10 - https://www.alura.com.br/ Status: online
+09/11/2019 17:32:11 - https://medium.com/ Status: online
+09/11/2019 17:32:12 - https://www.facebook.com/ Status: online
+09/11/2019 17:44:01 - https://www.alura.com.br/ Status: online
+09/11/2019 17:44:02 - https://medium.com/ Status: online
+09/11/2019 17:44:02 - https://www.facebook.com/ Status: online
+09/11/2019 17:44:05 - https://www.alura.com.br/ Status: online
+09/11/2019 17:44:05 - https://medium.com/ Status: online
+09/11/2019 17:44:06 - https://www.facebook.com/ Status: online

@@ -1,0 +1,1 @@
+Pequena aplicação desenvolvida com base no projeto do curso de introdução à linguagem Golang da alura.
